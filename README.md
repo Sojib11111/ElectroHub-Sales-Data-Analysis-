@@ -1,1 +1,2 @@
 # ElectroHub-Sales-Data-Analysis-
+I developed a comprehensive Power BI project named ElectoHub, where I created multiple interactive dashboards and analytical tables to explore and visualize data effectively. The project involved several stages, including data processing, data cleaning, data filtering, data modeling, and data visualization. I utilized DAX (Data Analysis Expressions) for creating calculated columns and measures, and Power Query for data transformation and preprocessing.
